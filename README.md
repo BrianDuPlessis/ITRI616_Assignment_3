@@ -1,4 +1,12 @@
-<h1>MNIST Dataset Classification with SVM and KNN</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MNIST Dataset Classification with SVM and KNN</title>
+</head>
+<body>
+    <h1>MNIST Dataset Classification with SVM and KNN</h1>
 
     <p>This repository contains two Python programs for solving the MNIST dataset classification problem using Support Vector Machines (SVM) and K-Nearest Neighbors (KNN) algorithms.</p>
 
@@ -10,3 +18,6 @@
 
     <h2>Dataset:</h2>
     <p>The MNIST dataset consists of 28x28 pixel grayscale images of handwritten digits (0-9). It is a widely-used benchmark dataset for machine learning tasks, particularly in the field of computer vision.</p>
+</body>
+</html>
+
